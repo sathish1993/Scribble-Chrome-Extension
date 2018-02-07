@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Scribble",
+  "description": "This extension allows the user to open a new tab as a Notepad.",
+  "version": "1.1",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png"
+  },
+  "background":{
+    "scripts": ["notepad.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
