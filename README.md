@@ -1,8 +1,9 @@
-# Scribble-Chrome-Extension
+## Scribble - Chrome Extension
 
-This is Google Chrome extension which turns a Chrome tab to a traditional notepad. This extension is published and can be installed from Chrome web store.
+Scribble is a light weight chrome extension, which helps to turn our chrome tab into a tradional Notepad along with few cool features.
 
-This will be really useful for those who browse a lot. Will increase productivity.
+You can find this extenion in chrome web store at https://chrome.google.com/webstore/detail/scribble/llcbbdoefldacbpgikiibjidbfhampee.
 
+For detailed information, please goto https://github.com/sathish1993/Scribble-Part2-Java-script. 
 
-https://chrome.google.com/webstore/detail/scribble/llcbbdoefldacbpgikiibjidbfhampee?hl=en
+Feel free to use and provide feedback.
